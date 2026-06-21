@@ -42,3 +42,4 @@ Identified patterns and trends within the data.
 6. Insight Generation
 Generated actionable business insights.
 Presented findings using visualizations and summary statistics.
+newplot2.png
